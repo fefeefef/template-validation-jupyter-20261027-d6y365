@@ -85,3 +85,5 @@ vulnerabilities privately as described in [Security](SECURITY.md).
 
 No license has been selected. [LICENSE](LICENSE) is intentionally empty until the
 project owners supply an approved license. Do not assume TiRex-2's license applies.
+
+<!-- Disposable same-repository PR validation probe. -->
